@@ -11,7 +11,7 @@ var solution = Math.floor(Math.random() * 100) + 1;
 // console.log("(La solution est " + solution + ")");
 
 
-var nbreSaisi = 1;
+var nbreSaisi = 0;
 var nbreEssai = 0;
 var nbreEssaiMax = 6;
 
